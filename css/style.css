@@ -1,0 +1,76 @@
+
+.tag {
+    position: absolute;
+    top: 57px;
+    left: 144px;
+    font-size: 17px;
+    color:  #5863E3;
+}
+
+.tag-1 {
+    position: absolute;
+    height: 120px;
+    width: 350px;
+    top: 84px;
+    left: 144px;
+    font-size: 49px;
+    color: #000000;
+}
+textarea {
+    height: 298px;
+    width: 756px;
+    position: absolute;
+    top: 253px;
+    left: 144px;
+    resize: none;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(0deg, rgba(213, 211, 211, 0.3), rgba(213, 211, 211, 0.3)),
+    linear-gradient(0deg, rgba(233, 219, 219, 0.2), rgba(233, 219, 219, 0.2)),
+    linear-gradient(0deg, #F8F8F8, #F8F8F8);
+    border: 2px solid;
+    padding: 20px;
+    font-size: 14px;
+}
+form {
+    display: flex;
+}
+
+#subject {
+    top: 253px;
+    left: 920px;
+}
+input[type=text] {
+    position: absolute;
+    width: 370px;
+    height: 59px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(0deg, rgba(213, 211, 211, 0.3), rgba(213, 211, 211, 0.3)),
+    linear-gradient(0deg, rgba(233, 219, 219, 0.2), rgba(233, 219, 219, 0.2)),
+    linear-gradient(0deg, #F8F8F8, #F8F8F8);
+    padding: 21px;
+
+}
+
+#subject-2 {
+    top: 332px;
+    left: 920px;
+}
+#subject-3 {
+
+    width: 370px;
+    height: 59px;
+    top: 411px;
+    left: 920px;
+}
+
+input[type=submit] {
+    background-color: #5968F4;
+    position: absolute; 
+    width: 370px;
+    height: 59px;
+    top: 495px;
+    left: 920px;
+    font-size: 14px;
+
+  }
+  
