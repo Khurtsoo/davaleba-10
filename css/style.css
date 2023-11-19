@@ -1,4 +1,6 @@
-
+body {
+    height: 1500px;
+}
 .tag {
     position: absolute;
     top: 57px;
@@ -73,4 +75,122 @@ input[type=submit] {
     font-size: 14px;
 
   }
-  
+.tag-2 {
+    background-color: #5968F4;
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    left: 288px;
+    border-radius: 50%;
+
+  }
+  .tag-3 {
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 650px;
+  }
+  .photo {
+    position: absolute;
+    left: 301px;
+    top: 17px;
+    z-index: 5;
+  }
+  .tag-4 {
+    color: #4E4D54;
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    top: 80px;
+    left: 296px;
+    font-size: 20px;
+  }
+  .tag-5 {
+    color: #99999A;
+    position: absolute;
+    top: 105px;
+    left: 266px;
+    font-size: 17.25px;
+  }
+  .tag-6 {
+    color: #99999A;
+    position: absolute;
+    top: 130px;
+    left: 239px;
+    font-size: 17.25px;
+  }
+  .photo-1 {
+    position: absolute;
+    left: 651px;
+    top: 15px;
+    z-index: 6;
+  }
+.tag-10 {
+    background-color: #5968F4;
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    left: 643px;
+    border-radius: 50%;
+}
+.tag-7 {
+    color: #4E4D54;
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    top: 80px;
+    left: 653px;
+    font-size: 20px;
+}
+.tag-8 {
+    color: #99999A;
+    position: absolute;
+    top: 105px;
+    left: 620px;
+    font-size: 17.25px;
+}
+.tag-9 {
+    color: #99999A;
+    position: absolute;
+    top: 130px;
+    left: 620px;
+    font-size: 17.25px;
+}
+.photo-2 {
+    position: absolute;
+    left: 951px;
+    top: 15px;
+    z-index: 7;
+}
+.tag-11 {
+    background-color: #5968F4;
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    left: 929px;
+    border-radius: 50%;
+}
+.tag-12 {
+    color: #4E4D54;
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    top: 80px;
+    left: 929px;
+    font-size: 20px;
+}
+.tag-13 {
+    color: #99999A;
+    position: absolute;
+    top: 105px;
+    left: 900px;
+    font-size: 17.25px;
+}
+
+.tag-14 {
+    color: #99999A;
+    position: absolute;
+    top: 130px;
+    left: 880px;
+    font-size: 17.25px;
+}
