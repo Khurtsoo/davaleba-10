@@ -158,7 +158,7 @@ input[type=submit] {
 }
 .photo-2 {
     position: absolute;
-    left: 951px;
+    left: 1022px;
     top: 15px;
     z-index: 7;
 }
@@ -167,7 +167,7 @@ input[type=submit] {
     position: absolute;
     width: 68px;
     height: 68px;
-    left: 929px;
+    left: 1000px;
     border-radius: 50%;
 }
 .tag-12 {
@@ -176,14 +176,14 @@ input[type=submit] {
     width: 54px;
     height: 23px;
     top: 80px;
-    left: 929px;
+    left: 1000px;
     font-size: 20px;
 }
 .tag-13 {
     color: #99999A;
     position: absolute;
     top: 105px;
-    left: 900px;
+    left: 980px;
     font-size: 17.25px;
 }
 
@@ -191,6 +191,6 @@ input[type=submit] {
     color: #99999A;
     position: absolute;
     top: 130px;
-    left: 880px;
+    left: 960px;
     font-size: 17.25px;
 }
